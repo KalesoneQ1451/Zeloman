@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Zeloman</string>
+    <string name="button">Goku</string>
+    <string name="ratio">Witaj przyjacielu</string>
 </resources>

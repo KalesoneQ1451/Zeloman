@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Zeloman</string>
     <string name="button">Goku</string>
+    <string name="button2">Vegeta</string>
+    <string name="button3">Gohan</string>
     <string name="ratio">Witaj przyjacielu</string>
+    <string name="ratio2">Kacper</string>
+    <string name="ratio3">Żegnaj</string>
+
 </resources>

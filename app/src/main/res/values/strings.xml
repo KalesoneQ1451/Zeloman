@@ -1,10 +1,32 @@
 <resources>
     <string name="app_name">Zeloman</string>
-    <string name="button">Goku</string>
-    <string name="button2">Vegeta</string>
-    <string name="button3">Gohan</string>
-    <string name="ratio">Witaj przyjacielu</string>
-    <string name="ratio2">Kacper</string>
-    <string name="ratio3">Żegnaj</string>
+    <string name="button">+</string>
+    <string name="button2">-</string>
+    <string name="button3">*</string>
+    <string name="button4">/</string>
+    <string name="button5">1</string>
+    <string name="button6">2</string>
+    <string name="button7">3</string>
+    <string name="button8">4</string>
+    <string name="button9">5</string>
+    <string name="button10">6</string>
+    <string name="button11">7</string>
+    <string name="button12">8</string>
+    <string name="button13">9</string>
+    <string name="button14">0</string>
+    <string name="ratio">+</string>
+    <string name="ratio2">-</string>
+    <string name="ratio3">*</string>
+    <string name="ratio4">/</string>
+    <string name="ratio5">1</string>
+    <string name="ratio6">2</string>
+    <string name="ratio7">3</string>
+    <string name="ratio8">4</string>
+    <string name="ratio9">5</string>
+    <string name="ratio10">6</string>
+    <string name="ratio11">7</string>
+    <string name="ratio12">8</string>
+    <string name="ratio13">9</string>
+    <string name="ratio14">0</string>
 
 </resources>
